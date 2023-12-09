@@ -1,0 +1,23 @@
+.body {
+    -fx-background-color: silver;
+}
+
+#header {
+}
+
+#footer {
+}
+
+.avatar {
+    -fx-image: url('../image/user.png');
+}
+
+.message_box {
+    -fx-background-radius: 5px;
+    -fx-background-color: white;
+}
+
+#type_box {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
