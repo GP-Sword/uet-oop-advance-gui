@@ -1,5 +1,5 @@
 # uet-oop-advance-gui
-
+# Hoàng Minh Nghĩa 22025508 - UET K67
 ## demo gui for a message app
 
 * no functionality yet, only view has been done
